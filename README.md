@@ -6,7 +6,7 @@ O objetivo deste repositório é facilitar a reprodução de uma instalação do
 
 Basta Executar:
 ```
-comando: bash main.sh
+bash main.sh
 ```
 E pronto!
 
